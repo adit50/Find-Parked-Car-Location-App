@@ -22,5 +22,3 @@ It is a html file written with Jquery.
 It load on WebView and kept in Assets.
 It shows Current and Parked location via JAVASCRIPT Bridge.
 ```
-Link to [Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_aditraj2.My_Car_Navigator)<br/>
-_This App was made by AppInventor but after few downloads I made it fully with JAVA_<br/>
